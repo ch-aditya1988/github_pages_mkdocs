@@ -1,5 +1,12 @@
 site_url: https://myrepo-doc-test.pages.github.io/
 site_author: repo user
+site_description: >-
+  Documentation
+edit_uri:""
+# Repository
+repo_name: ch-aditya1988/github_pages_mkdocs
+repo_url: https://github.com/ch-aditya1988/github_pages_mkdocs/
+
 site_name: myproject_github_pages
 theme:
   name: material
