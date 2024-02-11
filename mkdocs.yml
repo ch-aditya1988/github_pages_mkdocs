@@ -1,4 +1,4 @@
-site_name: myproject_github_pages  
+site_name: CRT IH Documentation
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
@@ -33,16 +33,18 @@ font:
   code: Roboto Mono
 #favicon: assests/logo.png
 
+nav:
+   - Welcome: index.md
+   - Datafeeds:
+     - evergiving: datafeeds/evergiving.md
+     - sugarcrm: datafeeds/sugarcrm.md
+     - assemble: datafeeds/assemble.md
+
 extra:
   social:
     - icon: fontawesome/brands/github
       link: https://google.com
-    - icon: fontawesome/brands/twitter
-      link: https://google.com
-    - icon: fontawesome/brands/linkedin
-      link: https://google.com
-
 
 
 copyright:
-  copyright &copy; 2024 myproject
+  copyright &copy; 2024 CRT
