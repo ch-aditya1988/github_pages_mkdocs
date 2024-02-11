@@ -31,7 +31,7 @@ theme:
 font:
   text: Roboto
   code: Roboto Mono
-favicon: assests/logo.png
+#favicon: assests/logo.png
 
 extra:
   social:
