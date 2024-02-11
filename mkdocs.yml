@@ -5,19 +5,15 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
-  
+
 theme:
   name: material
   features:
-    - content.code.annotate
-    - content.code.copy
     - content.tabs.link
-    - navigation.sections
-    - navigation.tabs
-    - navigation.top
     - search.highlight
     - search.suggest
-    - toc.integrate
+    - search.suggest
+    
   language: en
   palette:
     - scheme: default
@@ -32,6 +28,10 @@ theme:
        name: Switch to light mode
       primary: teal
       accent: lime
+font:
+  text: Roboto
+  code: Roboto Mono
+favicon: assests/logo.png
 
 extra:
   social:
