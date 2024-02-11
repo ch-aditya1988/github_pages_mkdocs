@@ -1,4 +1,11 @@
 site_name: myproject_github_pages  
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  
 theme:
   name: material
   features:
