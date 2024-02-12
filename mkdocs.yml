@@ -35,14 +35,14 @@ font:
 
 nav:
    - Welcome: index.md
-   - Technical Architecture:
-   - Legacy Pattrens:
+   - Technical Architecture: technical_architecture/product_pattren.md
+   - Legacy Pattrens: legacy/legacy_product_documentation.md
    - Datafeeds:
      - evergiving: datafeeds/evergiving.md
      - sugarcrm: datafeeds/sugarcrm.md
      - assemble: datafeeds/assemble.md
-   - Deployments:
-   - tools: 
+   - Deployments: deployment/deployment.md
+   - tools: tools/tools.md
 
 
 extra:

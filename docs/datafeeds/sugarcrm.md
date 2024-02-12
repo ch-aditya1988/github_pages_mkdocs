@@ -1,1 +1,1 @@
-place holder for sugarcrm docsumentation
+place holder for sugarcrm documentation
